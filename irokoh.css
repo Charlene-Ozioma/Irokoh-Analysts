@@ -187,14 +187,13 @@ p {
   gap: 2em;
   margin-top: 2em;
   padding: 1em;
-  background-color: var(--purple);
 }
 
 .service-card {
   background-color: var(--white);
   color: var(--purple);
   border-radius: 20px;
-  box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1), -8px -8px 16px rgba(255, 255, 255, 0.7);
+  box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1);
   padding: 2em;
   width: 250px;
   text-align: center;
